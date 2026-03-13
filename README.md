@@ -74,4 +74,4 @@ A high-performance, ultra-premium full-stack notes application built with **Reac
 ```
 
 ---
-Elevated by **Antigravity** 🌌
+Elevated by Utkarsh
